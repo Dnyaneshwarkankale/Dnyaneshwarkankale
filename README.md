@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dnyaneshwarkankale
 - 👀 I’m interested in ...Software development
-- 🌱 I’m currently learning ...CS Engeneering
+- 🌱 I’m currently learning ...BSc Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...dnyaneshwarkankale8@gmail.com
 
